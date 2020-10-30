@@ -1,1 +1,3 @@
-# debatechat
+# DebateChat
+
+Work in progress
