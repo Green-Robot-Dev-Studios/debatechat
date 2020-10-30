@@ -134,13 +134,13 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "debate_chat",
+      "name": "debatechat",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-10-30T15:22:15.494876Z",
+  "generated": "2020-10-30T16:21:46.851791Z",
   "generator": "pub",
   "generatorVersion": "2.9.2"
 }
